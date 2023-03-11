@@ -1,6 +1,6 @@
 # Formulario
 
-Proyecto hecho para la clase de Oracle ONE de la sección de Dev Frontend developer para la aprender a usar y contruir formularios. 
+Proyecto hecho para la clase de Oracle ONE de la sección de Developer Frontend para la aprender a usar y contruir formularios. 
 
 El estilo del CSS fue hecho por Alura LATAM.
 Aprendizajes:
